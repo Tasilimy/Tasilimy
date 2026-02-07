@@ -18,7 +18,7 @@
 ![Ubuntu server](https://img.shields.io/badge/Ubuntu_server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Kali linux](https://img.shields.io/badge/Kali_linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Vmware](https://img.shields.io/badge/Vmware_esxi-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Vmware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Hyper-v](https://img.shields.io/badge/Hyper--v-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Virtualbox](https://img.shields.io/badge/Virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
